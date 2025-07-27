@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.list-rm {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+ 
+}
+.list-rm li{
+  background-color: #ffe2e3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6px;
+  margin: 15px;
+  border: 1px solid whitesmoke;
+   box-shadow: 2px 3px 0px rgb(206, 112, 112);
+  border-radius: 3px;
+}

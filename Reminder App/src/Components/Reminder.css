@@ -1,0 +1,30 @@
+.container{
+    max-width: 600px;
+    margin: auto;
+    border-radius: 4px;
+    padding: 20px;
+    box-shadow: 0px 2px 5px rgba(254, 0, 0, 0.5);
+    background-color: rgb(255 204 204);
+
+}
+.reminder-tag{
+    color: rgb(180, 65, 69);
+    font-weight: bold;
+
+}
+.add-remainder{
+    display: flex;
+    gap: 5px;
+
+}
+.add-remainder input{
+    flex:5;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 0px 2px 5px rgba(243, 12, 12, 0.5);
+}
+.no-reminder{
+    font-weight: bold;
+    color: rgb(180, 65, 69);
+
+}
